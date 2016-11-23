@@ -1,5 +1,7 @@
 # TIL
 Today I Learned
+<<<<<<< HEAD
+=======
 
 ---
 
@@ -16,3 +18,4 @@ Inspired by [jbranchaud/til](https://github.com/jbranchaud/til), who shamelessly
 [thoughtbot/til](https://github.com/thoughtbot/til).
 
 
+>>>>>>> devBranch
