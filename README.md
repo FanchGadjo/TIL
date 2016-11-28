@@ -20,7 +20,7 @@ Today I Learned
 - [Moving changed files to another branch](git/moving-changed-files-to-another-branch.md)
 
 ### Lightroom
-- [Publish Folder Structure](lightroom/gedit publish-folder-structure.md)
+- [Publish Folder Structure](lightroom/publish-folder-structure.md)
 
 ## About
 Inspired by [jbranchaud/til](https://github.com/jbranchaud/til), who shamelessly stole this idea from
