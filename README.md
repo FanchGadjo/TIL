@@ -8,6 +8,7 @@ Today I Learned
 * [Unix](#unix)
 * [Git](#git)
 * [Lightroom](#lightroom)
+* [Computer Science] (#computer)
 
 ---
 
@@ -21,6 +22,11 @@ Today I Learned
 
 ### Lightroom
 - [Publish Folder Structure](lightroom/publish-folder-structure.md)
+
+### Computer Science
+- [Glob pattern](computer/glob-pattern.md) 
+
+---
 
 ## About
 Inspired by [jbranchaud/til](https://github.com/jbranchaud/til), who shamelessly stole this idea from
