@@ -7,6 +7,8 @@ Today I Learned
 
 * [Unix](#unix)
 * [Git](#git)
+* [Lightroom](#lightroom)
+* [Computer Science] (#computer)
 
 ---
 
@@ -14,11 +16,20 @@ Today I Learned
 - [Untar more than one file at a time](unix/untar-more-than-one-file.md)
 - [Disable touchscreen](unix/disable-touchscreen.md)
 - [Shorten command line (bash) prompt](unix/shorten-command-line-bash-prompt.md)
+- [Useful Unix commands for data science](unix/commands-data-science.md)
 
 ### Git
 - [Moving changed files to another branch](git/moving-changed-files-to-another-branch.md)
+- [See incoming commits](git/see-incoming-commits.md)
+- [Show untracked files](git/show-all-untracked-files.md)
 
-###
+### Lightroom
+- [Publish Folder Structure](lightroom/publish-folder-structure.md)
+
+### Computer Science
+- [Glob pattern](computer/glob-pattern.md) 
+
+---
 
 ## About
 Inspired by [jbranchaud/til](https://github.com/jbranchaud/til), who shamelessly stole this idea from
