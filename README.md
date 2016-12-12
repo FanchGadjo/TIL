@@ -23,6 +23,7 @@ Today I Learned
 - [Moving changed files to another branch](git/moving-changed-files-to-another-branch.md)
 - [See incoming commits](git/see-incoming-commits.md)
 - [Show untracked files](git/show-all-untracked-files.md)
+- [Aliases](git/aliases.md)
 
 ### Lightroom
 - [Publish Folder Structure](lightroom/publish-folder-structure.md)
