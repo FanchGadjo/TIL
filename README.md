@@ -19,6 +19,7 @@ Today I Learned
 - [Useful Unix commands for data science](unix/commands-data-science.md)
 - [Replace string over multiple files](unix/replace-string-over-multiple-files.md)
 - [Grep first or last match only](unix/grep-first-or-last-match.md)
+- [Find biggest files](unix/find-biggest-files.md)
 
 ### Git
 - [Moving changed files to another branch](git/moving-changed-files-to-another-branch.md)
