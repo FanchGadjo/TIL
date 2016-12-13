@@ -18,6 +18,7 @@ Today I Learned
 - [Shorten command line (bash) prompt](unix/shorten-command-line-bash-prompt.md)
 - [Useful Unix commands for data science](unix/commands-data-science.md)
 - [Replace string over multiple files](unix/replace-string-over-multiple-files.md)
+- [Grep first or last match only](unix/grep-first-or-last-match.md)
 
 ### Git
 - [Moving changed files to another branch](git/moving-changed-files-to-another-branch.md)
