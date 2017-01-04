@@ -20,6 +20,7 @@ Today I Learned
 - [Replace string over multiple files](unix/replace-string-over-multiple-files.md)
 - [Grep first or last match only](unix/grep-first-or-last-match.md)
 - [Find biggest files](unix/find-biggest-files.md)
+- [List directories and their total sizes](unix/list-folder-sizes.md)
 
 ### Git
 - [Moving changed files to another branch](git/moving-changed-files-to-another-branch.md)
