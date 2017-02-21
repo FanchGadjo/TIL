@@ -22,6 +22,7 @@ Today I Learned
 - [Find biggest files](unix/find-biggest-files.md)
 - [List directories and their total sizes](unix/list-folder-sizes.md)
 - [SSH passwordless](unix/ssh-passwordless.md)
+- [Add program to PATH](unix/add-program-to-path.md)
 
 ### Git
 - [Moving changed files to another branch](git/moving-changed-files-to-another-branch.md)
