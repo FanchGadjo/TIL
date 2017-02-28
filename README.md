@@ -8,7 +8,7 @@ Today I Learned
 * [Unix](#unix)
 * [Git](#git)
 * [Lightroom](#lightroom)
-* [Computer Science] (#computer)
+* [Computer Science] (#computer-science)
 * [MySQL](#mysql)
 
 ---
