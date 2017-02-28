@@ -9,6 +9,7 @@ Today I Learned
 * [Git](#git)
 * [Lightroom](#lightroom)
 * [Computer Science] (#computer)
+* [MySQL](#mysql)
 
 ---
 
@@ -35,6 +36,9 @@ Today I Learned
 
 ### Computer Science
 - [Glob pattern](computer/glob-pattern.md) 
+
+### MySQL
+- [Disable secure file priv](mysql/disable-secure-file-priv.md)
 
 ---
 
