@@ -30,6 +30,7 @@ Today I Learned
 - [See incoming commits](git/see-incoming-commits.md)
 - [Show untracked files](git/show-all-untracked-files.md)
 - [Aliases](git/aliases.md)
+- [Diff file against its last change](git/diff-file-against-last-changes.md)
 
 ### Lightroom
 - [Publish Folder Structure](lightroom/publish-folder-structure.md)
