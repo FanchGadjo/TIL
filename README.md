@@ -31,6 +31,7 @@ Today I Learned
 - [Show untracked files](git/show-all-untracked-files.md)
 - [Aliases](git/aliases.md)
 - [Diff file against its last change](git/diff-file-against-last-changes.md)
+- [Delete tag](git/delete-tag.md)
 
 ### Lightroom
 - [Publish Folder Structure](lightroom/publish-folder-structure.md)
