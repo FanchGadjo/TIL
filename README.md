@@ -35,6 +35,7 @@ Today I Learned
 - [Aliases](git/aliases.md)
 - [Diff file against its last change](git/diff-file-against-last-changes.md)
 - [Delete tag](git/delete-tag.md)
+- [Log oneline graph](git/lol.md)
 
 
 ### Lightroom
