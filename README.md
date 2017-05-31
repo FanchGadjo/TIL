@@ -24,6 +24,8 @@ Today I Learned
 - [List directories and their total sizes](unix/list-folder-sizes.md)
 - [SSH passwordless](unix/ssh-passwordless.md)
 - [Add program to PATH](unix/add-program-to-path.md)
+- [Rename file extension](unix/rename-file-extension.md)
+- [Counting The Number Of Matches Using grep](unix/grep-count.md)
 
 ### Git
 - [Moving changed files to another branch](git/moving-changed-files-to-another-branch.md)
@@ -32,7 +34,7 @@ Today I Learned
 - [Aliases](git/aliases.md)
 - [Diff file against its last change](git/diff-file-against-last-changes.md)
 - [Delete tag](git/delete-tag.md)
-- [Rename file extension](unix/rename-file-extension.md)
+
 
 ### Lightroom
 - [Publish Folder Structure](lightroom/publish-folder-structure.md)
