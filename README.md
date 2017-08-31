@@ -46,6 +46,7 @@ Today I Learned
 
 ### MySQL
 - [Disable secure file priv](mysql/disable-secure-file-priv.md)
+- [Delete duplicate records](mysql/delete-duplicate-records.md)
 
 ---
 
