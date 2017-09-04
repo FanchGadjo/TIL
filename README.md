@@ -27,6 +27,7 @@ Today I Learned
 - [Rename file extension](unix/rename-file-extension.md)
 - [Counting The Number Of Matches Using grep](unix/grep-count.md)
 - [Perform mkdir and cd using a single command](unix/mkdir-cd.md)
+- [Folder size](unix/folder-size.md)
 
 ### Git
 - [Moving changed files to another branch](git/moving-changed-files-to-another-branch.md)
