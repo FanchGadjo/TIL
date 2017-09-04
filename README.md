@@ -8,7 +8,7 @@ Today I Learned
 * [Unix](#unix)
 * [Git](#git)
 * [Lightroom](#lightroom)
-* [Computer Science] (#computer-science)
+* [ComputerScience] (#computerscience)
 * [MySQL](#mysql)
 
 ---
@@ -41,7 +41,7 @@ Today I Learned
 ### Lightroom
 - [Publish Folder Structure](lightroom/publish-folder-structure.md)
 
-### Computer Science
+### ComputerScience
 - [Glob pattern](computer/glob-pattern.md) 
 
 ### MySQL
