@@ -8,7 +8,7 @@ Today I Learned
 * [Unix](#unix)
 * [Git](#git)
 * [Lightroom](#lightroom)
-* [ComputerScience] (#computerscience)
+* [ComputerScience](#computerscience)
 * [MySQL](#mysql)
 
 ---
@@ -42,9 +42,9 @@ Today I Learned
 - [Publish Folder Structure](lightroom/publish-folder-structure.md)
 
 ### ComputerScience
-- [Glob pattern](computer/glob-pattern.md) 
+- [Glob pattern](computer/glob-pattern.md)
 
-### MySQL
+### MySQL
 - [Disable secure file priv](mysql/disable-secure-file-priv.md)
 - [Delete duplicate records](mysql/delete-duplicate-records.md)
 
