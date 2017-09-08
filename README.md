@@ -37,6 +37,7 @@ Today I Learned
 - [Diff file against its last change](git/diff-file-against-last-changes.md)
 - [Delete tag](git/delete-tag.md)
 - [Log oneline graph](git/lol.md)
+- [Delete a git commit but keep the changes](git/delete-commit-keep-changes.md)
 
 
 ### Lightroom
