@@ -38,6 +38,7 @@ Today I Learned
 - [Delete tag](git/delete-tag.md)
 - [Log oneline graph](git/lol.md)
 - [Delete a git commit but keep the changes](git/delete-commit-keep-changes.md)
+- [Untrack files from git temporarily](git/untrack-file-temporarily.md)
 
 
 ### Lightroom
