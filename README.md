@@ -40,6 +40,7 @@ Today I Learned
 - [Delete a git commit but keep the changes](git/delete-commit-keep-changes.md)
 - [Untrack files from git temporarily](git/untrack-file-temporarily.md)
 - [Squash all commits on branch](git/squash-commits-on-branch.md)
+- [Track a remote branch](git/set-upstream.md)
 
 ### Lightroom
 - [Publish Folder Structure](lightroom/publish-folder-structure.md)
