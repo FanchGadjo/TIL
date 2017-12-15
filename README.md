@@ -54,6 +54,7 @@ Today I Learned
 - [Disable secure file priv](mysql/disable-secure-file-priv.md)
 - [Delete duplicate records](mysql/delete-duplicate-records.md)
 - [Get all columns from all tables](mysql/get-all-colums-from-all-tables.md)
+- [phpMyAdmin Installation](mysql/phpmyadmin-install.md)
 
 ---
 
