@@ -42,6 +42,7 @@ Today I Learned
 - [Untrack files from git temporarily](git/untrack-file-temporarily.md)
 - [Squash all commits on branch](git/squash-commits-on-branch.md)
 - [Track a remote branch](git/set-upstream.md)
+- [Configure git to always push-pull tags](git/config-tags.md)
 
 ### Lightroom
 - [Publish Folder Structure](lightroom/publish-folder-structure.md)
