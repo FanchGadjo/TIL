@@ -56,6 +56,7 @@ Today I Learned
 - [Delete duplicate records](mysql/delete-duplicate-records.md)
 - [Get all columns from all tables](mysql/get-all-colums-from-all-tables.md)
 - [phpMyAdmin Installation](mysql/phpmyadmin-install.md)
+- [Pretty Print in CLI](mysql/pretty-print-cli.md)
 
 ---
 
