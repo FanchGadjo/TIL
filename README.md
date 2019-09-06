@@ -45,6 +45,7 @@ Today I Learned
 - [Track a remote branch](git/set-upstream.md)
 - [Configure git to always push-pull tags](git/config-tags.md)
 - [Pretty good oneline log for french use](git/git-log-custom.md)
+- [Rebase vs Merge](git/rebase-vs-merge.md)
 
 ### Lightroom
 - [Publish Folder Structure](lightroom/publish-folder-structure.md)
