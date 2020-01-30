@@ -30,6 +30,7 @@ Today I Learned
 - [Folder size](unix/folder-size.md)
 - [Sort disk-usage by size](unix/disk-usage-sort-by-size.md)
 - [Custom bash prompt](unix/custom-bash-prompt.md)
+- [Split image](unix/split-image.md)
 
 ### Git
 - [Moving changed files to another branch](git/moving-changed-files-to-another-branch.md)
